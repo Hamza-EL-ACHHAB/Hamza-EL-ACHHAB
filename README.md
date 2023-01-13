@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamza-EL-ACHHAB
 - 👀 I’m interested in software engineering
 - 💬 I'm a full stack Developer using the mern stack
-- 🌱 I’m currently learning blockchain development
+- 🌱 I’m currently learning Spring framework 
 - 💞️ I’m looking to collaborate on interesting projects in the web world
 
 
